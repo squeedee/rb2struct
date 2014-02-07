@@ -1,0 +1,31 @@
+= rb2struct
+
+* {Homepage}[https://rubygems.org/gems/rb2struct]
+* {Documentation}[http://rubydoc.info/gems/rb2struct/frames]
+* {Email}[mailto:squeedee at gmail.com]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'rb2struct'
+
+== Requirements
+
+== Install
+
+  $ gem install rb2struct
+
+== Synopsis
+
+  $ rb2struct
+
+== Copyright
+
+Copyright (c) 2014 Rasheed Abdul-Aziz
+
+See LICENSE.txt for details.
