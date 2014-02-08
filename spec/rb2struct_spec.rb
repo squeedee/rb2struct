@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'rb2struct'
 
 describe Rb2struct do
   it "should have a VERSION constant" do
